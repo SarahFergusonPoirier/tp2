@@ -1,0 +1,11 @@
+@media (max-width: 700px) {
+    .w-50 {
+        width: 98%!important;
+    }
+}
+
+@media (min-width: 1600px) {
+    .w-50 {
+        width: 25%!important;
+    }
+}
